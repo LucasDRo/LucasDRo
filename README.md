@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasDRo&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDRo&layout=donut-vertical)](https://github.com/LucasDRo/github-readme-stats)
+
