@@ -1,4 +1,4 @@
-### Oi, meu nome é Lucas 👋
+### Oi, meu nome é Lucas! 👋
 
 <!--
 **LucasDRo/LucasDRo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
