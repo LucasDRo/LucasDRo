@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,java,css" /><br>
-    <img src="https://skillicons.dev/icons?i=html,mysql,c" />
-    <code><img width="50" src="https://user-images.githubusercontent.com/25181517/182534075-4962068b-4407-46c2-ac67-ddcb86af30cc.png" alt="Grafana" title="Grafana"/></code>
+    <img src="https://skillicons.dev/icons?i=html,mysql,c" /><br>
+    <img width="50" src="https://user-images.githubusercontent.com/25181517/182534075-4962068b-4407-46c2-ac67-ddcb86af30cc.png" alt="Grafana" title="Grafana"/>
   </a>
 </p>
