@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<p align="center">
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasDRo&show_icons=true&theme=radical)
-
+<\p>
 
 ## 💻 Languages and Tools
 <p align="center">
