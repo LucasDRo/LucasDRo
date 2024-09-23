@@ -1,4 +1,4 @@
-### Oi, meu nome é Lucas! 👋
+## 😁 Oi, meu nome é Lucas! 👋
 
 <!--
 **LucasDRo/LucasDRo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,5 +22,8 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,java,css,c" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=zabbix, grafana" />
   </a>
 </p>
