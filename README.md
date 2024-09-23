@@ -17,3 +17,10 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasDRo&show_icons=true&theme=radical)
 
+
+## 💻 Languages
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,java,css,c" />
+  </a>
+</p>
