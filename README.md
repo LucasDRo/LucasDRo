@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 ## 💻 Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,css,c" />
+    <img src="https://skillicons.dev/icons?i=git,java,css" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=zabbix, grafana" />
+    <img src="https://skillicons.dev/icons?i=html,mysql,c" />
   </a>
 </p>
