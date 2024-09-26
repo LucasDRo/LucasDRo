@@ -1,7 +1,7 @@
 ## 😁 Oi, meu nome é Lucas! 👋
 
-### - 📚 Análise e Desenvolvimento de Sistemas
-### - 🚩 Instituto Federal do Triângulo Mineiro
+- 📚 Análise e Desenvolvimento de Sistemas
+- 🚩 Instituto Federal do Triângulo Mineiro
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasDRo&show_icons=true&theme=transparent)
 
