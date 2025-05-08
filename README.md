@@ -19,3 +19,13 @@
     <img src="https://skillicons.dev/icons?i=ts" />
   </a>
 </p>
+
+#### Contatos
+<div display="inline">
+  <a href="https://www.linkedin.com/in/lucas-diniz-rodrigues-879743225/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/lucasdini_r/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+</div>
