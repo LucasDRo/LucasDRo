@@ -1,6 +1,6 @@
 ## 😁 Oi, meu nome é Lucas! 👋
 
-- 📚 Análise e Desenvolvimento de Sistemas
+- 📚 Tecnólogo em Análise e Desenvolvimento de Sistemas
 - 🚩 Desenvolvedor Júnior
  
 <p align="center">
