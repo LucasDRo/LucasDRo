@@ -5,7 +5,7 @@
  
 <p align="center">
    <!-- <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=LucasDRo&theme=transparent" /> -->
- <img src="https://ghstats.dev/api/sparkline?username=LucasDRo&theme=midnight&days=30&width=320&height=160&title=%C3%9Altimos+30+dias" alt="Contribution Sparkline" />
+ <img src="https://ghstats.dev/api/sparkline?username=LucasDRo&theme=midnight&days=30&width=320&height=180&title=%C3%9Altimos+30+dias" alt="Contribution Sparkline" />
  <img src="https://ghstats.dev/api/card?username=LucasDRo&theme=midnight&border_radius=10.5&custom_title=Status&size=compact" alt="GitHub Stats Card" />
    <!-- <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasDRo&layout=compact&langs_count=8&card_width=320&theme=transparent" /> -->
 </p>
