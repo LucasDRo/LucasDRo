@@ -1,7 +1,7 @@
 ## 😁 Oi, meu nome é Lucas! 👋
 
 - 📚 Tecnólogo em Análise e Desenvolvimento de Sistemas
-- 🚩 Desenvolvedor Júnior
+- 🚩 Dev. Full Stack
  
 <p align="center">
    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=LucasDRo&theme=transparent" />
