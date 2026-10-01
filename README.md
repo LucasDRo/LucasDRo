@@ -15,7 +15,8 @@
     <img src="https://skillicons.dev/icons?i=java,mysql,nextjs" /><br>
     <img src="https://skillicons.dev/icons?i=react,javascript,spring" />
     <img width="50" src="https://user-images.githubusercontent.com/25181517/182534075-4962068b-4407-46c2-ac67-ddcb86af30cc.png" alt="Grafana" title="Grafana"/>
-    <img width="50" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" title="bash"/>
+    <img src="https://ghstats.dev/api/sparkline?username=LucasDRo&theme=midnight&days=30&width=320&height=80&title=%C3%9Altimos+30+dias" alt="Contribution Sparkline" />
+    <!-- <img width="50" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" title="bash"/> -->
     <img src="https://skillicons.dev/icons?i=ts" />
   </a>
 </p>
