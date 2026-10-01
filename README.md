@@ -5,7 +5,8 @@
  
 <p align="center">
    <!-- <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=LucasDRo&theme=transparent" /> -->
- ![LucasDRo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=LucasDRo&theme=gotham&hide_border=true)
+ ![LucasDRo's Streak]()
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasDRo&theme=gotham&hide_border=true" alt="Contribution Sparkline" />
  <img src="https://ghstats.dev/api/card?username=LucasDRo&theme=midnight&border_radius=10.5&custom_title=Status&size=compact" alt="GitHub Stats Card" />
    <!-- <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasDRo&layout=compact&langs_count=8&card_width=320&theme=transparent" /> -->
 </p>
